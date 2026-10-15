@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none">
+  <!-- Rounded Black Background -->
+  <rect width="512" height="512" rx="108" fill="#080808"/>
+  <!-- Geometric Gold N -->
+  <path d="M112 134H191L323 276V134H400V380H321L189 238V380H112V134Z" fill="#D8A35A"/>
+  <!-- Coral Red Underline -->
+  <rect x="112" y="405" width="288" height="17" fill="#E35D54"/>
+</svg>
